@@ -1,6 +1,6 @@
 # Data-Science-and-Algorithm-S4-README
 
-**S4 Semester Assignments**
+# S4-Semester-Assignments
 This repository contains the solutions for the assignments given during the S4 semester. All codes provided here have passed all test cases provided by the instructors.
 
 **Table of Contents**
