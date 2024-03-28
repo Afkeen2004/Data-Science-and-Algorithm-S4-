@@ -4,7 +4,7 @@
 This repository contains the solutions for the assignments given during the S4 semester. All codes provided here have passed all test cases provided by the instructors.
 
 ## Table of Contents
-* [Cycle 1 Part A Assignment](#cycle-1-part-a-assignment)
+* [Cycle 1 Part A Assignment](#cycle-1-part-A-assignment)
 * [Cycle 1 Part B Assignment](#Cycle-1-Part-B-Assignment)
 * [Cycle 1 Part C Assignment](#Cycle-1-Part-C-Assignment)
 
