@@ -3,12 +3,13 @@
 ## S4-Semester-Assignments
 This repository contains the solutions for the assignments given during the S4 semester. All codes provided here have passed all test cases provided by the instructors.
 
-## Table-of-Contents
-* [Cycle 1 Part A Assignment] (## Cycle-1-Part-A-Assignment)
-* [Cycle 1 Part B Assignment] (# Cycle-1-Part-B-Assignment)
-* [Cycle 1 Part C Assignment] (# Cycle-1-Part-C-Assignment)
+## Table of Contents
+* [Cycle 1 Part A Assignment](#cycle-1-part-a-assignment)
+* [Cycle 1 Part B Assignment](#Cycle-1-Part-B-Assignment)
+* [Cycle 1 Part C Assignment](#Cycle-1-Part-C-Assignment)
 
-### Cycle-1-Part-A-Assignment
+
+## Cycle-1-Part-A-Assignment
 
 Q1: You have given mathematical expressions which have some duplicate parentheses. The expressions
 consist of lowercase alphabets and operators (+, -, *, /, ˆ , %) without space, Your goal is to
