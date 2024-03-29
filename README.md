@@ -11,7 +11,7 @@ This repository contains the solutions for the assignments given during the S4 s
 * [Cycle 3 Part B Assignment](#Cycle-3-Part-B-Assignment)
 
 ## Cycle-1-Part-A-Assignment
-**Introduction for DSA (Recall to S3 Program Design) - Stack, Queue, Linked list**
+**Introduction for DSA (Recall to S3 Program Design Laboratory) - Stack, Queue, Linked list**
 
 **Q1:** You have given mathematical expressions which have some duplicate parentheses. The expressions consist of lowercase alphabets and operators (+, -, *, /, ˆ , %) without space, Your goal is to identify and flag expressions that have duplicate parentheses. Duplicate parentheses occur when the same subexpression is enclosed by multiple sets of parentheses. It’s important to note that a single alphabet or operator by itself is also considered a valid expression.
 
