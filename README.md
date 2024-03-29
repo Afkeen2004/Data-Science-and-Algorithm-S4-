@@ -1,4 +1,4 @@
-# Data-Science-and-Algorithm-S4-README
+# S4-Data-Science-and-Algorithm-EADME
 
 This repository contains the solutions for the assignments given during the S4 semester. All codes provided here have passed all test cases provided by the instructors.
 
