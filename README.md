@@ -57,12 +57,20 @@ This repository contains the solutions for the assignments given during the S4 s
 
 **Q1:** You are given an undirected graph G. Implement the following using DFS as a sub-routine; noOfConnectedComponents(G), sizeOfComponents(G), noOfBridges(G), noOfArticulationPoints(G)
 
-**Q2:** Given a directed graph containing N nodes as an adjacency matrix,implement the following using
-a Breadth-First Search(BFS) traversal algorithm; Is Topological sort possible(), Number of strongly components()
+**Q2:** Given a directed graph containing N nodes as an adjacency matrix,implement the following using a Breadth-First Search(BFS) traversal algorithm; Is Topological sort possible(), Number of strongly components()
 
-**Q3:** You are given an integer N representing the number of nodes in the graph . The graph is represented
-by adjacency list .The next N lines represent an adjacency list where first integer is node itself and
-next integers are the nodes adjacent to it in ascending order . The goal is to implement the following
-using a Depth-First Search (DFS) traversal algorithm; All path(Node1,Node2), valid tree()
+**Q3:** You are given an integer N representing the number of nodes in the graph . The graph is represented by adjacency list .The next N lines represent an adjacency list where first integer is node itself and next integers are the nodes adjacent to it in ascending order . The goal is to implement the following using a Depth-First Search (DFS) traversal algorithm; All path(Node1,Node2), valid tree()
 
 ## Cycle-3-Part-B-Assignment
+**Graphs: Minimum Spanning Tree**
+
+**Q1:** Write a Program to compute the Minimum spanning tree of a connected undirected graph G using Prim’s algorithm . Print the sequence with which edges are picked by algorithm and total edge
+weight of spanning tree. The goal is to implement the following functions Sequence(x), Total weight().
+
+**Q2:** Write a Program to compute the Minimum spanning tree of a connected undirected graph G using Kruskal’s Algorithm.
+
+**Q3:** You are given a weighted undirected graph represented as an adjacency list. Your task is to implement Dijkstra’s algorithm to find the shortest distances from a given source node to all other nodes in the graph.
+
+**Q4:** You are given a weighted undirected graph represented as a weighted adjacency matrix. Your task is to implement the Floyd-Warshall algorithm to find the shortest paths between all pairs of nodes in the graph.
+##
+##
